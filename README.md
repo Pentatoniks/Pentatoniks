@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Emmanuel 👋
 
-<!--
-**Pentatoniks/Pentatoniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🎓 Computer Science Student at University of the People
+- 🐍 Learning Python, Web Development, and IT Support
+- 📚 Currently working on: [FreeCodeCamp Responsive Web Design](https://www.freecodecamp.org/)
+- 🎯 Goal: Build real-world projects and become a Software Developer
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Programming: Python, HTML, CSS (more coming soon)
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- [Tribute Page](https://github.com/yourusername/tribute-page)
+- [Python To-Do App](https://github.com/yourusername/python-todo-app)
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Email](mailto:youremail@gmail.com)
